@@ -1,3 +1,4 @@
+![logo](https://github.com/099-webtech/099-webtech/blob/main/Black%20And%20Purple%20Modern%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ameena Zafar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
